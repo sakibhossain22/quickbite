@@ -29,7 +29,21 @@ Visit Quick Bite at: [Quick Bite](https://quickbite-8faa4.web.app)
 
 ### 5. Responsive Design
 - The website is fully responsive, providing an optimal viewing and ordering experience across various devices, including desktops, tablets, and smartphones.
+## Backend Features
 
+### 1. MongoDB and Express Integration
+- Utilize MongoDB as the backend database to store and manage product, order, and user information.
+- Employ Express.js to build a robust and efficient backend server, enhancing the overall performance of the application.
+
+### 2. API Endpoints
+- Define clear API endpoints for seamless communication between the frontend and backend.
+- Implement RESTful APIs to handle CRUD operations for products, orders, and user data.
+
+### 3. Security Measures
+- Implement secure authentication and authorization mechanisms to protect user data and ensure a safe online environment.
+
+### 4. Scalability
+- Design the backend architecture to be scalable, accommodating potential growth in users and data.
 ## Contributing
 
 We welcome contributions from the community!
